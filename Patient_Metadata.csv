@@ -1,0 +1,24 @@
+﻿Patients,Age,Gender,Invasivness,2017_WHO
+P01_1,28,Male,Yes,PIT1+ PPA
+P01_2,28,Male,Yes,PIT1+ PPA
+P02_1,20,Male,Yes,Somatotroph adenomas
+P02_2,21,Male,Yes,Somatotroph adenomas
+P03,28,Female,Yes,ACTH adenomas
+P04,61,Female,Yes,ACTH adenomas
+P05,22,Male,No,Somatotroph adenomas
+P06,63,Female,Yes,ACTH adenomas
+P08,48,Female,Yes,Lactotroph adenomas
+P09,56,Female,Yes,ACTH adenomas
+P10,54,Male,Yes,Gonadotroph adenoma
+P11,67,Female,Yes,PAwUIC
+P12,53,Male,Yes,PIT1+ PPA
+P14,41,Female,Yes,Gonadotroph adenoma
+P15,30,Female,Yes,Somatotroph adenomas
+P16,21,Male,Yes,Somatotroph adenomas
+P17,45,Male,No,Gonadotroph adenoma
+P18,56,Female,No,Gonadotroph adenoma
+P19,59,Male,Yes,Gonadotroph adenoma
+P20,46,Female,No,PIT1+ PPA
+P21,56,Male,Yes,Gonadotroph adenoma
+P22,53,Female,Yes,Gonadotroph adenoma
+P23,54,Male,No,Gonadotroph adenoma
